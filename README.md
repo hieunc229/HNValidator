@@ -3,7 +3,7 @@ PHP Library For Validation
 - Return array of errors
 - If there is no error, return NULL
 
-# Avalible validation
+# Available validation
 Please note that number below is only for demonstration, replace with your number requirement
 - min(5)    : mininum lenght of string is 5
 - max(5)    : maxinum length of string is 5 
